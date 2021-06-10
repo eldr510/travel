@@ -1,0 +1,55 @@
+header .green__top{
+    background: #00A66A;
+
+}
+header .top__line{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+header .top__line .left__logo img{
+    width: 90px;
+}
+header .top__line .center__top ul{
+    list-style: none;
+    display: flex;
+}
+header .top__line .center__top ul li{
+    margin-right: 50px;
+    color: #ffffff;
+    font-size: 18px;
+}
+header .top__line .right__top p{
+    color: #ffffff;
+    font-size: 18px;
+}
+header .top__line .right__top span{
+    color: #81a690;
+}
+header .main {
+    background: url("image/image 4.png");
+    background-size: cover;
+}
+header .main .poligon_1{
+    text-align: center;
+}
+header .main .poligon_1 img{
+    position: absolute;
+    top: 19%;
+    left: 37.5%;
+    opacity: 90%;
+}
+header .main .back__rock{
+    text-align: center;
+    padding: 190px 0 210px 0;
+}
+header .main .back__rock img{
+    position: relative;
+    opacity: 98%;
+}
+header .main .text__logo img{
+    position: absolute;
+    width: 170px;
+    top: 37%;
+    left: 44.2%;
+}
